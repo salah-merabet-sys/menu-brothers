@@ -85,10 +85,10 @@
   },
   "layout": {
     "mode": "grid",
-    "columns": 4,
-    "density": "tight",
-    "cardStyle": "flat",
-    "imageRatio": "4:3"
+    "columns": 2,
+    "density": "normal",
+    "cardStyle": "shadow",
+    "imageRatio": "16:9"
   },
   "hero": {
     "layout": "cover",

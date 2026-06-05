@@ -11,7 +11,7 @@ DEPLOY:
   3. Commit & push to GitHub
   4. GitHub Pages deploys in ~30s
 
-Exported: 05/06/2026, 13:23:05
+Exported: 05/06/2026, 17:09:16
 Items: 10 | Categories: 5
 Theme preset: rouge | Font preset: minimal
-Layout: grid / 4 cols / flat
+Layout: grid / 2 cols / shadow
