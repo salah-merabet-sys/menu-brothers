@@ -1,0 +1,17 @@
+THEME ENGINE v4 — DEPLOY PACKAGE
+==================================
+
+CONTENTS:
+  data/menu.json      ← Full design system + content
+  assets/images/*     ← Uploaded images
+
+DEPLOY:
+  1. Copy data/menu.json to your repo
+  2. Copy assets/images/* to your repo
+  3. Commit & push to GitHub
+  4. GitHub Pages deploys in ~30s
+
+Exported: 6/5/2026, 11:43:47 AM
+Items: 0 | Categories: 5
+Theme preset: rouge | Font preset: minimal
+Layout: grid / 4 cols / flat
