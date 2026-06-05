@@ -204,10 +204,10 @@
       "category": "crepes",
       "price": 350,
       "description": "",
-      "image": "assets/images/nutella.jpg",
+      "image": "assets/images/1780679140490-img-20260605-180301.png",
       "available": true,
       "featured": false,
-      "tag": ""
+      "tag": "Popular"
     },
     {
       "id": 1780661810331,
@@ -215,10 +215,10 @@
       "category": "crepes",
       "price": 400,
       "description": "",
-      "image": "assets/images/banan.jpg",
+      "image": "assets/images/1780679153571-img-20260605-180400.png",
       "available": true,
       "featured": false,
-      "tag": ""
+      "tag": "Popular"
     },
     {
       "id": 1780661881385,
@@ -226,7 +226,7 @@
       "category": "crepes",
       "price": 450,
       "description": "",
-      "image": "assets/images/fritz-2-fruits-.jpg",
+      "image": "assets/images/1780679164665-img-20260605-180407.png",
       "available": true,
       "featured": false,
       "tag": ""
