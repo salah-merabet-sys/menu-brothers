@@ -16,7 +16,7 @@
     "hours": "",
     "email": "",
     "website": "",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/the_brothers_shop28?igsh=ZTU4bW93d3RqY3Y2",
     "facebook": "",
     "whatsapp": "+213 665 35 24 09",
     "contactShow": {
@@ -86,7 +86,7 @@
   "layout": {
     "mode": "grid",
     "columns": 4,
-    "density": "normal",
+    "density": "tight",
     "cardStyle": "flat",
     "imageRatio": "4:3"
   },
@@ -162,7 +162,7 @@
       "icon": "fa-cake-candles",
       "description": "",
       "visible": true,
-      "order": 2
+      "order": 0
     },
     {
       "id": "pastries",
@@ -170,7 +170,7 @@
       "icon": "fa-cake-candles",
       "description": "",
       "visible": true,
-      "order": 3
+      "order": 1
     },
     {
       "id": "drinks",
@@ -178,7 +178,15 @@
       "icon": "fa-wine-glass",
       "description": "Curated beverages and soft options",
       "visible": true,
-      "order": 4
+      "order": 2
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "icon": "fa-cake-candles",
+      "description": "Sweet finales crafted in-house daily",
+      "visible": true,
+      "order": 3
     },
     {
       "id": "pizza",
@@ -187,15 +195,118 @@
       "description": "",
       "visible": true,
       "order": 4
-    },
-    {
-      "id": "desserts",
-      "name": "Desserts",
-      "icon": "fa-cake-candles",
-      "description": "Sweet finales crafted in-house daily",
-      "visible": true,
-      "order": 5
     }
   ],
-  "items": []
+  "items": [
+    {
+      "id": 1780661759587,
+      "name": "Nutella",
+      "category": "crepes",
+      "price": 350,
+      "description": "",
+      "image": "assets/images/nutella.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780661810331,
+      "name": "Banane",
+      "category": "crepes",
+      "price": 400,
+      "description": "",
+      "image": "assets/images/banan.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780661881385,
+      "name": "Fruta (2 fruits)",
+      "category": "crepes",
+      "price": 450,
+      "description": "",
+      "image": "assets/images/fritz-2-fruits-.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780661938929,
+      "name": "Cocktail(4 fruits)",
+      "category": "crepes",
+      "price": 550,
+      "description": "",
+      "image": "assets/images/cocktail-4-fruits-.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780661998319,
+      "name": "Pistache",
+      "category": "crepes",
+      "price": 500,
+      "description": "",
+      "image": "assets/images/pistache.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780662019144,
+      "name": "Nues",
+      "category": "crepes",
+      "price": 500,
+      "description": "",
+      "image": "assets/images/nues.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780662039543,
+      "name": "Lotus",
+      "category": "crepes",
+      "price": 500,
+      "description": "",
+      "image": "assets/images/lotus.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780662053932,
+      "name": "Milka",
+      "category": "crepes",
+      "price": 500,
+      "description": "",
+      "image": "assets/images/milka.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780662070134,
+      "name": "Kiwi",
+      "category": "crepes",
+      "price": 600,
+      "description": "",
+      "image": "assets/images/kiwi.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780662094811,
+      "name": "Spéciale",
+      "category": "crepes",
+      "price": 650,
+      "description": "",
+      "image": "assets/images/sp-ciale.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    }
+  ]
 }
