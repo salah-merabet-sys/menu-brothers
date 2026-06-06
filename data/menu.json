@@ -204,7 +204,7 @@
       "category": "crepes",
       "price": 350,
       "description": "",
-      "image": "assets/images/1780679140490-img-20260605-180301.png",
+      "image": "assets/images/1780736825354-img-20260605-223143.jpg",
       "available": true,
       "featured": false,
       "tag": "Popular"
@@ -215,7 +215,7 @@
       "category": "crepes",
       "price": 400,
       "description": "",
-      "image": "assets/images/1780679153571-img-20260605-180400.png",
+      "image": "assets/images/1780736838246-img-20260605-223202.jpg",
       "available": true,
       "featured": false,
       "tag": "Popular"
@@ -226,7 +226,7 @@
       "category": "crepes",
       "price": 450,
       "description": "",
-      "image": "assets/images/1780679164665-img-20260605-180407.png",
+      "image": "assets/images/1780736851528-img-20260605-223233.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -237,7 +237,7 @@
       "category": "crepes",
       "price": 550,
       "description": "",
-      "image": "assets/images/1780680083808-img-20260605-181820.png",
+      "image": "assets/images/1780736861190-img-20260605-223637.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -248,7 +248,7 @@
       "category": "crepes",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780680095774-img-20260605-181842.png",
+      "image": "assets/images/1780736869549-img-20260605-223255.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -260,7 +260,7 @@
       "price": 500,
       "description": "",
       "image": "assets/images/nues.jpg",
-      "available": true,
+      "available": false,
       "featured": false,
       "tag": ""
     },
@@ -270,7 +270,7 @@
       "category": "crepes",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780680109864-img-20260605-181946.png",
+      "image": "assets/images/1780736897411-img-20260605-223334.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -281,7 +281,7 @@
       "category": "crepes",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780680122097-img-20260605-181905.png",
+      "image": "assets/images/1780736910424-img-20260605-223427.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -293,7 +293,7 @@
       "price": 600,
       "description": "",
       "image": "assets/images/kiwi.jpg",
-      "available": true,
+      "available": false,
       "featured": false,
       "tag": ""
     },
@@ -304,7 +304,7 @@
       "price": 650,
       "description": "",
       "image": "assets/images/sp-ciale.jpg",
-      "available": true,
+      "available": false,
       "featured": false,
       "tag": ""
     }
