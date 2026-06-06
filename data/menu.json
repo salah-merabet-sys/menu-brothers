@@ -262,17 +262,6 @@
       "tag": ""
     },
     {
-      "id": 1780662019144,
-      "name": "Nues",
-      "category": "crepes",
-      "price": 500,
-      "description": "",
-      "image": "assets/images/nues.jpg",
-      "available": false,
-      "featured": false,
-      "tag": ""
-    },
-    {
       "id": 1780662039543,
       "name": "Lotus",
       "category": "crepes",
@@ -295,34 +284,12 @@
       "tag": ""
     },
     {
-      "id": 1780662070134,
-      "name": "Kiwi",
-      "category": "crepes",
-      "price": 600,
-      "description": "",
-      "image": "assets/images/kiwi.jpg",
-      "available": false,
-      "featured": false,
-      "tag": ""
-    },
-    {
-      "id": 1780662094811,
-      "name": "Spéciale",
-      "category": "crepes",
-      "price": 650,
-      "description": "",
-      "image": "assets/images/sp-ciale.jpg",
-      "available": false,
-      "featured": false,
-      "tag": ""
-    },
-    {
       "id": 1780770965994,
       "name": "Jus de Banane",
       "category": "juices",
       "price": 250,
       "description": "",
-      "image": "assets/images/1780770964699-img-20260606-191717.jpg",
+      "image": "assets/images/1780773047184-img-20260606-191717.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -333,7 +300,7 @@
       "category": "juices",
       "price": 400,
       "description": "",
-      "image": "assets/images/1780771004169-img-20260606-192104.png",
+      "image": "assets/images/1780773061380-img-20260606-191743.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -344,7 +311,7 @@
       "category": "juices",
       "price": 250,
       "description": "",
-      "image": "assets/images/1780771038668-img-20260606-172932.png",
+      "image": "assets/images/1780773071396-img-20260606-172932.png",
       "available": true,
       "featured": false,
       "tag": ""
@@ -355,7 +322,7 @@
       "category": "juices",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780771069186-img-20260606-191908.jpg",
+      "image": "assets/images/1780773104845-1780771069186-img-20260606-191908.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -366,7 +333,7 @@
       "category": "desserts",
       "price": 350,
       "description": "",
-      "image": "assets/images/1780771148253-img-20260606-191923.jpg",
+      "image": "assets/images/1780773121474-1780771148253-img-20260606-191923.jpg",
       "available": true,
       "featured": false,
       "tag": ""
@@ -377,29 +344,29 @@
       "category": "desserts",
       "price": 350,
       "description": "",
-      "image": "assets/images/1780771210091-img-20260606-191938.jpg",
+      "image": "assets/images/1780773133404-1780771210091-img-20260606-191938.jpg",
       "available": true,
       "featured": false,
       "tag": ""
     },
     {
       "id": 1780771284994,
-      "name": "Milkshake Nutella",
+      "name": "Milkshake Nutella banane",
       "category": "milkshakes",
       "price": 250,
       "description": "",
-      "image": "assets/images/1780771284066-img-20260606-191854.jpg",
+      "image": "assets/images/1780773159413-img-20260606-191727.jpg",
       "available": true,
       "featured": false,
       "tag": ""
     },
     {
       "id": 1780771330456,
-      "name": "Milkshake Nutella banane",
+      "name": "Milkshake Nutella special",
       "category": "milkshakes",
       "price": 400,
       "description": "",
-      "image": "assets/images/1780771393497-img-20260606-191727.jpg",
+      "image": "assets/images/1780773183820-img-20260606-191854.jpg",
       "available": true,
       "featured": false,
       "tag": "Special"
