@@ -165,26 +165,26 @@
       "order": 0
     },
     {
-      "id": "pastries",
-      "name": "Pastries",
-      "icon": "fa-cake-candles",
+      "id": "juices",
+      "name": "Juices & Fresh Drinks",
+      "icon": "fa-utensils",
       "description": "",
       "visible": true,
       "order": 1
     },
     {
-      "id": "drinks",
-      "name": "Drinks",
-      "icon": "fa-wine-glass",
-      "description": "Curated beverages and soft options",
+      "id": "desserts",
+      "name": "Desserts & Cold Coffee",
+      "icon": "fa-cake-candles",
+      "description": "Sweet finales crafted in-house daily",
       "visible": true,
       "order": 2
     },
     {
-      "id": "desserts",
-      "name": "Desserts",
+      "id": "pastries",
+      "name": "Pastries",
       "icon": "fa-cake-candles",
-      "description": "Sweet finales crafted in-house daily",
+      "description": "",
       "visible": true,
       "order": 3
     },
@@ -195,6 +195,14 @@
       "description": "",
       "visible": true,
       "order": 4
+    },
+    {
+      "id": "milkshakes",
+      "name": "Milkshakes",
+      "icon": "fa-beer-mug-empty",
+      "description": "",
+      "visible": true,
+      "order": 5
     }
   ],
   "items": [
@@ -307,6 +315,94 @@
       "available": false,
       "featured": false,
       "tag": ""
+    },
+    {
+      "id": 1780770965994,
+      "name": "Jus de Banane",
+      "category": "juices",
+      "price": 250,
+      "description": "",
+      "image": "assets/images/1780770964699-img-20260606-191717.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771005359,
+      "name": "Jus Cocktail",
+      "category": "juices",
+      "price": 400,
+      "description": "",
+      "image": "assets/images/1780771004169-img-20260606-192104.png",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771039605,
+      "name": "Mojito",
+      "category": "juices",
+      "price": 250,
+      "description": "",
+      "image": "assets/images/1780771038668-img-20260606-172932.png",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771070057,
+      "name": "Jus Kiwi",
+      "category": "juices",
+      "price": 500,
+      "description": "",
+      "image": "assets/images/1780771069186-img-20260606-191908.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771150334,
+      "name": "Ice Coffee",
+      "category": "desserts",
+      "price": 350,
+      "description": "",
+      "image": "assets/images/1780771148253-img-20260606-191923.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771211247,
+      "name": "Salade de fruits",
+      "category": "desserts",
+      "price": 350,
+      "description": "",
+      "image": "assets/images/1780771210091-img-20260606-191938.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771284994,
+      "name": "Milkshake Nutella",
+      "category": "milkshakes",
+      "price": 250,
+      "description": "",
+      "image": "assets/images/1780771284066-img-20260606-191854.jpg",
+      "available": true,
+      "featured": false,
+      "tag": ""
+    },
+    {
+      "id": 1780771330456,
+      "name": "Milkshake Nutella banane",
+      "category": "milkshakes",
+      "price": 400,
+      "description": "",
+      "image": "assets/images/1780771393497-img-20260606-191727.jpg",
+      "available": true,
+      "featured": false,
+      "tag": "Special"
     }
   ]
 }
