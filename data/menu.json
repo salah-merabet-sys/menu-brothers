@@ -92,10 +92,11 @@
   },
   "hero": {
     "layout": "cover",
-    "imageHeight": 580,
-    "overlayOpacity": 0.75,
-    "coverImage": "assets/images/hero-coverImage-1780742979594-hero-coverimage-1780656206201-screenshot-from-2026-06-05-11-42-52.webp",
-    "chefImage": "assets/images/hero-chefImage-1780655804427-screenshot-from-2026-06-05-11-28-16.png"
+    "imageHeight": 460,
+    "overlayOpacity": 0.85,
+    "coverImage": "assets/images/hero-coverImage-1780787407251-screenshot-from-2026-06-05-11-42-52.png",
+    "chefImage": "assets/images/hero-chefImage-1780655804427-screenshot-from-2026-06-05-11-28-16.png",
+    "ctaLabel": "See Menu"
   },
   "sections": [
     {
@@ -151,7 +152,7 @@
       "id": "contact",
       "label": "Contact Information",
       "icon": "fa-map-pin",
-      "enabled": false,
+      "enabled": true,
       "order": 7
     }
   ],
@@ -212,7 +213,7 @@
       "category": "crepes",
       "price": 350,
       "description": "",
-      "image": "assets/images/1780742853289-1780736825354-img-20260605-223143.webp",
+      "image": "assets/images/1780787117486-1780742853289-1780736825354-img-20260605-223143.webp",
       "available": true,
       "featured": false,
       "tag": "Popular"
@@ -223,7 +224,7 @@
       "category": "crepes",
       "price": 400,
       "description": "",
-      "image": "assets/images/1780742865116-1780736838246-img-20260605-223202.webp",
+      "image": "assets/images/1780787125416-1780742865116-1780736838246-img-20260605-223202.webp",
       "available": true,
       "featured": false,
       "tag": "Popular"
@@ -234,7 +235,7 @@
       "category": "crepes",
       "price": 450,
       "description": "",
-      "image": "assets/images/1780742889942-1780736851528-img-20260605-223233.webp",
+      "image": "assets/images/1780787134010-1780742889942-1780736851528-img-20260605-223233.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -245,7 +246,7 @@
       "category": "crepes",
       "price": 550,
       "description": "",
-      "image": "assets/images/1780742898724-1780736861190-img-20260605-223637.webp",
+      "image": "assets/images/1780787140465-1780742898724-1780736861190-img-20260605-223637.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -256,7 +257,7 @@
       "category": "crepes",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780742906189-1780736869549-img-20260605-223255.webp",
+      "image": "assets/images/1780787154186-1780742906189-1780736869549-img-20260605-223255.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -267,7 +268,7 @@
       "category": "crepes",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780742915642-1780736897411-img-20260605-223334.webp",
+      "image": "assets/images/1780787164533-1780742915642-1780736897411-img-20260605-223334.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -278,10 +279,10 @@
       "category": "crepes",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780742927159-1780736910424-img-20260605-223427.webp",
+      "image": "assets/images/1780787174244-1780742927159-1780736910424-img-20260605-223427.webp",
       "available": true,
       "featured": false,
-      "tag": ""
+      "tag": "Popular"
     },
     {
       "id": 1780770965994,
@@ -289,7 +290,7 @@
       "category": "juices",
       "price": 250,
       "description": "",
-      "image": "assets/images/1780773047184-img-20260606-191717.jpg",
+      "image": "assets/images/1780787218293-1780770964699-img-20260606-191717.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -300,7 +301,7 @@
       "category": "juices",
       "price": 400,
       "description": "",
-      "image": "assets/images/1780773061380-img-20260606-191743.jpg",
+      "image": "assets/images/1780787231598-1780771004169-img-20260606-192104.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -311,10 +312,10 @@
       "category": "juices",
       "price": 250,
       "description": "",
-      "image": "assets/images/1780773071396-img-20260606-172932.png",
+      "image": "assets/images/1780787239252-1780771038668-img-20260606-172932.webp",
       "available": true,
       "featured": false,
-      "tag": ""
+      "tag": "Special"
     },
     {
       "id": 1780771070057,
@@ -322,7 +323,7 @@
       "category": "juices",
       "price": 500,
       "description": "",
-      "image": "assets/images/1780773104845-1780771069186-img-20260606-191908.jpg",
+      "image": "assets/images/1780787253913-1780771069186-img-20260606-191908.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -333,7 +334,7 @@
       "category": "desserts",
       "price": 350,
       "description": "",
-      "image": "assets/images/1780773121474-1780771148253-img-20260606-191923.jpg",
+      "image": "assets/images/1780787261755-1780771148253-img-20260606-191923.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -344,7 +345,7 @@
       "category": "desserts",
       "price": 350,
       "description": "",
-      "image": "assets/images/1780773133404-1780771210091-img-20260606-191938.jpg",
+      "image": "assets/images/1780787269422-1780771210091-img-20260606-191938.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -355,7 +356,7 @@
       "category": "milkshakes",
       "price": 250,
       "description": "",
-      "image": "assets/images/1780773159413-img-20260606-191727.jpg",
+      "image": "assets/images/1780787275775-1780771284066-img-20260606-191854.webp",
       "available": true,
       "featured": false,
       "tag": ""
@@ -366,7 +367,7 @@
       "category": "milkshakes",
       "price": 400,
       "description": "",
-      "image": "assets/images/1780773183820-img-20260606-191854.jpg",
+      "image": "assets/images/1780787342698-1780773183820-img-20260606-191854.webp",
       "available": true,
       "featured": false,
       "tag": "Special"
